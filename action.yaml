@@ -1,0 +1,9 @@
+name: ESLint Action
+author: Hideki Igarashi
+description: GitHub Action to run ESLint and comment errors to Pull Request
+runs:
+  using: docker
+  image: Dockerfile
+branding:
+  icon: check-square
+  color: purple
