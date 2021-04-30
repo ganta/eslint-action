@@ -19,8 +19,10 @@ on: pull_request
 jobs:
   lint:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v2
+
       - uses: ganta/eslint-action@v1
 ```
 
