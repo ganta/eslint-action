@@ -1,6 +1,7 @@
 # ESLint Action
 
-![ESLint Formatter](https://github.com/ganta/eslint-action/workflows/ESLint%20Formatter/badge.svg) ![Docker](https://github.com/ganta/eslint-action/workflows/Docker/badge.svg)
+[![ESLint Formatter](https://github.com/ganta/eslint-action/actions/workflows/eslint-formatter.yaml/badge.svg)](https://github.com/ganta/eslint-action/actions/workflows/eslint-formatter.yaml)
+[![Docker](https://github.com/ganta/eslint-action/actions/workflows/docker.yaml/badge.svg)](https://github.com/ganta/eslint-action/actions/workflows/docker.yaml)
 
 GitHub Action to run ESLint and comment errors to Pull Request.
 
